@@ -1,0 +1,2 @@
+config:
+   imnf:master brnch,spring-config/connfig-dev.yml,version=1
