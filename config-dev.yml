@@ -1,3 +1,3 @@
 config:
    info:
-      master brnch,spring-config/connfig-dev.yml,version=2
+      master brnch,spring-config/connfig-dev.yml,version=3
